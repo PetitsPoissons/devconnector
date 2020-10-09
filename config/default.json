@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://lepois_71:WAUH5rurn-spew2sqop@cluster0.4q44g.mongodb.net/devconnector?retryWrites=true&w=majority",
-  "jwtSecret": "Secret absolu"
+  "jwtSecret": "Secret absolu",
+  "githubClientId": "221c30bf8f30ab0310ee",
+  "githubSecret": "21d7e5a8c179bf95a446d521cfe521fdae67dba1"
 }
