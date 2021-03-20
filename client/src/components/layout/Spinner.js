@@ -15,6 +15,5 @@ export default () => (
         via GIPHY
       </a>
     </p>
-    https://stackoverflow.com/questions/34743264/how-to-set-iframe-content-of-a-react-component
   </Fragment>
 );
